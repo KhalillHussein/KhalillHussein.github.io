@@ -1,0 +1,11 @@
+{
+	"apiUrl": "http://94.154.130.179:5000",
+	"telegramUrl": "https://t.me/js_by_vladilen",
+	"instUrl": "https://www.instagram.com/rudnev._.danil",
+	"supportUrl": "https://t.me/js_by_vladilen",
+	"defaultZoom": 12,
+	"mapCenter": {
+		"lat": 59.938955,
+		"lon": 30.315644
+	}
+}
