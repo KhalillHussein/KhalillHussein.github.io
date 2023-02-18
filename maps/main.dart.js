@@ -84288,7 +84288,7 @@ var $async$vx=A.G(function(e,f){if(e===1)return A.C(f,r)
 while(true)switch(s){case 0:n=p.d
 n===$&&A.b()
 o=A.cJ(b,c)
-o=n.xg(A.auQ(null,null,A.cJ(o.a,o.b),"left",null,null,null,null,a,null,null,null,0.5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null),d)
+o=n.xg(A.auQ(null,null,A.cJ(o.a,o.b),"left",null,null,null,null,a,null,null,null,0.4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null),d)
 s=3
 return A.I(o,$async$vx)
 case 3:s=1
