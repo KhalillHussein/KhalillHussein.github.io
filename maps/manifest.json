@@ -1,11 +1,11 @@
 {
-    "name": "maps_example",
-    "short_name": "maps_example",
+    "name": "Сашка",
+    "short_name": "Сашка",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "App for shopping",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
