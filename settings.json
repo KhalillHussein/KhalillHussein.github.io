@@ -1,9 +1,9 @@
 {
-"appVersion": "1.0.1",  
+"appVersion": "1.0.2",  
 "apiUrl": "http://89.232.185.188:5000",
   "telegramUrl": "https://t.me/vanspot",
   "instUrl": "https://www.instagram.com/van_spot",
-  "supportUrl": "https://t.me/vanspot",
+  "supportUrl": "https://t.me/Rudnev_Danil",
   "defaultZoom": 12,
   "mapCenter": {
    "lat": 59.938955,
